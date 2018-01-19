@@ -855,6 +855,9 @@
 	float: left;
 	margin-bottom: 36px
 }
+.fontt{
+	font-family: Enso;
+}
 .colume-2{
 	float: left;
 	display: inline-block;
