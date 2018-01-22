@@ -109,6 +109,7 @@
 	float: left;
 	color: #8BC34A;
 	font-family: Roboto-Regular;
+	font-size: 12px;
 	height:36px;
 	width: 82px;
 	border: 2px solid #8BC34A;
@@ -480,10 +481,10 @@
 
 .top-group-div .img-two {
 	float: left;
-	padding-left: 147.5px;
+	padding-left: 147px;
 }
 
-.top-group-div .img-three {
+/*.top-group-div .img-three {
 	float: left;
 	padding-left: 149.5px;
 }
@@ -497,7 +498,7 @@
 	float: left;
 	padding-left: 138.5px;
 }
-
+*/
 .our-customers-name {
 	height: 24px;
 	float: left;
@@ -513,26 +514,26 @@
 
 .bot-group-div .our-customers-name-one {
 	width: 138px;
-	margin-left: 386px;
+	margin-left: 382px;
 }
 .bot-group-div .our-customers-name-two {
 	width: 98px;
-	margin-left: 132px;
+	margin-left: 139px;
 }
 
 .bot-group-div .our-customers-name-three {
 	width: 188px;
-	margin-left: 115px;
+	margin-left: 116px;
 }
 
 .bot-group-div .our-customers-name-four {
 	width: 210px;
-	margin-left: 67px;
+	margin-left: 61px;
 }
 
 .bot-group-div .our-customers-name-five {
 	width: 191px;
-	margin-left: 66px;
+	margin-left: 58px;
 }
 
 .members {
@@ -888,7 +889,6 @@
   border: 1px solid #979797;
   border-radius: 50%;
   margin-left: 21.29px;
-  /*margin: auto;*/
 }
 .first-oval {
 	float: left;
@@ -960,6 +960,7 @@
 	height: 420px;
 	float: left;
 }
+
 .second-projects-div {
 	width: 941.7px;
 	height: 609px;
@@ -1068,6 +1069,7 @@
 	height: 74px;
 	float: left;
 }
+
 .img-footer {
 	float: left;
 	margin-top: 47px;
@@ -1079,6 +1081,7 @@
 .learn,
 .how,
 .legal {
+	text-decoration: none;
 	float: left;
 	margin-top: 54px;
 	color: #8BC34A;
@@ -1087,6 +1090,7 @@
 	font-weight: 500;
 	line-height: 18px;
 }
+
 .get {
 	margin-left: 100px;
 	height: 18px;
@@ -1121,6 +1125,7 @@
 .learn1,
 .how1,
 .legal1 {
+	text-decoration: none;
 	float: left;
 	font-family: Roboto-Regular;
 	color: #D0D8DC;
@@ -1164,6 +1169,7 @@
 .ti-twitter-alt,
 .ti-youtube,
 .ti-linkedin {
+	text-decoration: none;
 	float: left;
 	margin-top: 22px;
 	height: 13px;
